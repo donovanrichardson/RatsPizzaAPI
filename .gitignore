@@ -1,0 +1,5 @@
+/starter-code/node_modules
+*/node_modules
+.envnode_modules/
+/node_modules/
+.env
